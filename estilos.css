@@ -1,0 +1,29 @@
+.team-member {
+  margin-bottom: 3rem;
+  text-align: center;
+}
+.team-member img {
+  width: 15rem;
+  height: 15rem;
+  border: 0.5rem solid rgba(0, 0, 0, 0.1);
+}
+.rounded-circle {
+  border-radius: 50% !important;
+}
+.mx-auto {
+  margin-right: auto !important;
+  margin-left: auto !important;
+}
+h1 {
+ font-family: 'Times New Roman', Times, serif;
+}
+h2 {
+  font-family: 'Times New Roman', Times, serif;
+ }
+ h3 {
+  font-family: 'Times New Roman', Times, serif;
+ }
+p{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
